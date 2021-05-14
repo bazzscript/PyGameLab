@@ -1,2 +1,2 @@
 # PyGameLab
-Awesome Games with Python
+Awesome Games with Python & Gaming Automation Scripts With Python
