@@ -1,0 +1,2 @@
+A Simple Arcade Game that is a 1 player game. 
+The game has 1 bouncing box, 2 vertical blocks, 1 block is for the player and 1 is for the programmed enemy. We made a simple scoring rule. In order for the player to score, the player should let the box to bounce in his/her block to pass the box back to the enemy. When the bouncing box will touch the player's end of his/her side, the score will be automatically restarted.
